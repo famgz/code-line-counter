@@ -1,2 +1,2 @@
 # code-line-counter
-An exercise to consolidate Java learning.
+An ongoing exercise to consolidate Java learning.
